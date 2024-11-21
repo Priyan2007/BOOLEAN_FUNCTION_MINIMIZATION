@@ -42,7 +42,6 @@ Hardware – PCs, Cyclone II , USB flasher
 ![WhatsApp Image 2024-11-21 at 11 15 27 AM](https://github.com/user-attachments/assets/8287fb87-783e-4065-85ad-8d679f8071c7)
 
 ### RESULT :
-
 The given logic functions are implemented using and their operations are verified using
 Verilog programming successfully.
 
