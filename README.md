@@ -12,7 +12,12 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ### EQUIPMENTS REQUIRED:
 
 Hardware – PCs, Cyclone II , USB flasher
+
 Software - Quartus prime.
+
+### THEORY:
+
+### LOGIC DIAGRAM:
 
 
 ### PROCEDURE :
