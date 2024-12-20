@@ -1,6 +1,6 @@
 ### NAME : PRIYAN
 ### REG NO: 24000051
-### EX 2 : BOOLEAN FUNCTION MINIMIZATION
+### EXP NO 2: BOOLEAN FUNCTION MINIMIZATION
 ### AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
